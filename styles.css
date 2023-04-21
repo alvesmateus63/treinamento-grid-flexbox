@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar */
+
+nav {
+  background-color: #00ffff;
+}
+
+/* SIDEBAR */
+
+aside {
+  background-color: #00ced1;
+}
+
+/* MAIN */
+
+main {
+  background-color: #7fffd4;
+}
+
+/* CONTENT */
+
+#c1 {
+  background-color: #00fa9a;
+}
+
+#c2 {
+  background-color: #3cb371;
+}
+
+#c3 {
+  background-color: #98fb98;
+}
+
+/* FOOTER */
+
+footer {
+  background-color: #7fff00;
+}
